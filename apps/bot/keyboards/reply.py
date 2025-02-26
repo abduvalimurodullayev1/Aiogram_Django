@@ -54,3 +54,4 @@ def reply_main_menu():
     reply_keyboard.button(text="Asosiy menu")
 
     return reply_keyboard.as_markup(resize_keyboard=True)
+
